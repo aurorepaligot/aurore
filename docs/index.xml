@@ -27,15 +27,15 @@
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/blog/creating-a-website-with-blogdown/</guid>
-      <description></description>
+      <description>This website is proudly hosted by Rbind.io, the #rstat community domain dedicated to website development. It’s running thanks a list of spicy ingredients like R blogdown, Hugo, GitHub, R Markdown and Netlify.</description>
     </item>
     
     <item>
       <title>test</title>
-      <link>/projets/test/</link>
+      <link>/projects/test/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/projets/test/</guid>
+      <guid>/projects/test/</guid>
       <description></description>
     </item>
     
