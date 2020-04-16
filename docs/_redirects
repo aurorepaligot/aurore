@@ -1,0 +1,8 @@
+# Redirect default Netlify subdomain to primary domain
+http://naughty-joliot-9c2e94.netlify.com/* https://aurore.rbind.io/:splat 301!
+
+http://aurore.netlify.com/* https://aurore.rbind.io/:splat 301!
+  
+http://aboreal.rbind.io/*  https://aurore.rbind.io/:splat 301!
+
+https://aboreal.rbind.io/* https://aurore.rbind.io/:splat 301!
