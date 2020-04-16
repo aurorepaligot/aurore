@@ -17,7 +17,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params.author]
   name = "Aurore Paligot"
-  thumbnail = "/images/author.png"
+  thumbnail = "/images/author.jpeg"
   description = "Creator of this blog."
 
 [params.index]
@@ -33,12 +33,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   alertbar = false
 
 [params.social]
-  github = "<username>"
-  linkedin = "<username>"
+  github = "aurorepaligot"
+  linkedin = "aurorepaligot"
   #xing = "<username>"
   #medium = "<username>"
-  twitter = "<username>"
-  instagram = "<username>"
+  twitter = "aurorepaligot"
+  # instagram = "<username>"
 
 ## Main Menu
 [[menu.main]]
@@ -50,7 +50,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "projects"
     weight = 200
     identifier = "projects"
-    url = "/project/"
+    url = "/projets"
 [[menu.main]]
     name = "bonjour"
     identifier = "landing"

@@ -1,0 +1,16 @@
+---
+title: Creating a website with blogdown
+author: Aurore Paligot
+date: '2020-04-16'
+slug: creating-a-website-with-blogdown
+categories:
+  - R
+tags:
+  - R Markdown
+  - R Ladies
+  - blogdown
+  - hugo
+  - blogging
+publishdate: '2020-04-16T12:04:04+02:00'
+comments: yes
+---
