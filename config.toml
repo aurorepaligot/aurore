@@ -26,7 +26,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   #subtitle = "I'm a unique placeholder. Working here and there!"
   mdtext = '''
 
-##### Hello, I'm Aurore. 
+##### Hello, I'm Aurore Paligot. 
 ##### I create stuff with data. 
 ##### Welcome to my blog.
 '''
