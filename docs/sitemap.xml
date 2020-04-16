@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/projects/instagram-the-dam/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/women-in-tech-community-amsterdam/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/static/imprint/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/weak-drop-extraction/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,7 +43,17 @@
   </url>
   
   <url>
+    <loc>/tags/bootcamp/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/coursera-super-fan/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,7 +63,42 @@
   </url>
   
   <url>
+    <loc>/tags/dashboards/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-analytics/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/data-analytics/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/data-ethics/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/data-science/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/from-mixed-effects-models-to-machine-learning-with-love/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/hugo/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/linguistics/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,7 +118,32 @@
   </url>
   
   <url>
+    <loc>/categories/r-ladies/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/r-markdown/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/register-variation-in-lsfb/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/research/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sankey/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sign-languages/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,12 +153,47 @@
   </url>
   
   <url>
+    <loc>/categories/tableau/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/test/</loc>
+    <loc>/blog/data-science-bootcamp/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/covid-19-data-viz/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/sankey-graph/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/urban-graffiti/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/visualization/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/dataset-publication-for-academics/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/women-in-tech/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
   

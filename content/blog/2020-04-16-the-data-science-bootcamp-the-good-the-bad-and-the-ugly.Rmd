@@ -1,0 +1,13 @@
+---
+title: 'The Data Science Bootcamp : the good, the bad (and the ugly)'
+author: Aurore Paligot
+date: '2020-04-16'
+slug: data-science-bootcamp
+categories:
+  - Data Science
+tags:
+  - bootcamp
+publishdate: '2020-04-16T13:04:37+02:00'
+comments: yes
+---
+**this is a draft**

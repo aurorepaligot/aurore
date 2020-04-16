@@ -31,6 +31,33 @@
     </item>
     
     <item>
+      <title>bootcamp</title>
+      <link>/tags/bootcamp/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bootcamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dashboards</title>
+      <link>/tags/dashboards/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dashboards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Analytics</title>
+      <link>/tags/data-analytics/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>hugo</title>
       <link>/tags/hugo/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
@@ -54,6 +81,24 @@
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sankey</title>
+      <link>/tags/sankey/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sankey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sign Languages</title>
+      <link>/tags/sign-languages/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sign-languages/</guid>
       <description></description>
     </item>
     

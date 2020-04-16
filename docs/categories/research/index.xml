@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on aurore</title>
+    <link>/categories/research/</link>
+    <description>Recent content in Research on aurore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Aurore Paligot - All rights reserved</copyright>
+    <lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automatic extraction of &#34;weak drop&#34; from Sign Language corpora</title>
+      <link>/projects/weak-drop-extraction/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/weak-drop-extraction/</guid>
+      <description>this is a draft</description>
+    </item>
+    
+    <item>
+      <title>Why it is important for Academics to publish their datasets</title>
+      <link>/blog/dataset-publication-for-academics/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/dataset-publication-for-academics/</guid>
+      <description>and a few considerations about the good and the bad of data practices in Academiaand also: what I wish I did differently during my PhDthis is a draft</description>
+    </item>
+    
+  </channel>
+</rss>

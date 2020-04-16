@@ -1,0 +1,12 @@
+---
+title: A year and a half in the women in tech community of Amsterdam
+author: Aurore Paligot
+date: '2020-04-16'
+slug: women-in-tech-community-amsterdam
+categories:
+  - Women In Tech
+  - R Ladies
+tags: []
+publishdate: '2020-04-16T12:54:26+02:00'
+comments: yes
+---

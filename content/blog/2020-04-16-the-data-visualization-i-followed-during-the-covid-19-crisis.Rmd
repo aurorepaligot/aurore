@@ -1,0 +1,14 @@
+---
+title: The data visualization I followed during the Covid-19 crisis
+author: Aurore Paligot
+date: '2020-04-16'
+slug: covid-19-data-viz
+categories:
+  - Visualization
+  - Data Analytics
+tags: []
+publishdate: '2020-04-16T12:41:28+02:00'
+comments: yes
+---
+** this is a draft**
+

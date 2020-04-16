@@ -18,7 +18,8 @@
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/blog/creating-a-website-with-blogdown/</guid>
-      <description>This website is proudly hosted by Rbind.io, the #rstat community domain dedicated to website development. It’s running thanks a list of spicy ingredients like R blogdown, Hugo, GitHub, R Markdown and Netlify.</description>
+      <description>this is a draft
+This website is proudly hosted by Rbind.io, the free #rstat community domain dedicated to website development. In this post I’d like to take you through the different steps that I took to build it.</description>
     </item>
     
   </channel>

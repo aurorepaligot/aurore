@@ -1,0 +1,19 @@
+---
+title: Urban graffiti
+author: Aurore Paligot
+date: '2020-04-16'
+slug: urban-graffiti
+categories:
+  - Tableau
+  - Visualization
+  - Data Analytics
+tags:
+  - Dashboards
+publishdate: '2020-04-16T12:36:33+02:00'
+comments: yes
+---
+
+Urban traffic dashboard  - City of Amsterdam
+
+**this is a draft**
+

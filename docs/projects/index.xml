@@ -13,12 +13,43 @@
     
     
     <item>
-      <title>test</title>
-      <link>/projects/test/</link>
+      <title>(Insta)gram the dam</title>
+      <link>/projects/instagram-the-dam/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/projects/test/</guid>
-      <description></description>
+      <guid>/projects/instagram-the-dam/</guid>
+      <description>A portrait of Amsterdam Urban Beachesthis is a draft
+insert images, videos and interactive dashboard
+If you are curious to know what an architect and a linguist do when they work together, I invite you to read this article by Tom van Arman who presents the urban design tool we have imagined.</description>
+    </item>
+    
+    <item>
+      <title>Automatic extraction of &#34;weak drop&#34; from Sign Language corpora</title>
+      <link>/projects/weak-drop-extraction/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/weak-drop-extraction/</guid>
+      <description>this is a draft</description>
+    </item>
+    
+    <item>
+      <title>Register variation in French Belgian Sign Language (LSFB)</title>
+      <link>/projects/register-variation-in-lsfb/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/register-variation-in-lsfb/</guid>
+      <description>** this is a draft**
+my phd project</description>
+    </item>
+    
+    <item>
+      <title>Urban graffiti</title>
+      <link>/projects/urban-graffiti/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/urban-graffiti/</guid>
+      <description>Urban traffic dashboard - City of Amsterdam
+this is a draft</description>
     </item>
     
   </channel>
