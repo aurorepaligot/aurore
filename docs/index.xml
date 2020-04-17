@@ -20,7 +20,7 @@
       <guid>/projects/instagram-the-dam/</guid>
       <description>A portrait of Amsterdam Urban Beachesthis is a draft
 insert images, videos and interactive dashboard
-If you are curious to know what an architect and a linguist do when they work together, I invite you to read this article by Tom van Arman who presents the urban design tool we have imagined.</description>
+ var divElement = document.getElementById(&#39;viz1587114118672&#39;); var vizElement = divElement.</description>
     </item>
     
     <item>
