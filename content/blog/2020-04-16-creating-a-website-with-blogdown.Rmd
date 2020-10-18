@@ -14,7 +14,6 @@ tags:
 publishdate: '2020-04-16T12:04:04+02:00'
 comments: yes
 ---
-**this is a draft**
 
 ### a tutorial
 
@@ -23,7 +22,6 @@ This website is proudly hosted on Rbind.io, the #rstat community domain dedicate
 ![step1](/blog/2020-04-16-creating-a-website-with-blogdown_files/R-Ladies Amsterdam_16-04-2020_Blogdown_Aurore Paligot.png)
 
 ![step2](/blog/2020-04-16-creating-a-website-with-blogdown_files/R-Ladies Amsterdam_16-04-2020_Blogdown_Aurore Paligot (1).png)
-
 
 Ingredients : 
 
@@ -35,6 +33,6 @@ Ingredients :
 - Netlify
 - rbind
 
-**[Tutorial here]** 
+### Download Tutorial
 
-This post is based on the webinar that I had the pleasure to give thanks to the kind invitation of the R Ladies community of Amsterdam. 
+This post is based on the webinar that I had the pleasure to give thanks to the kind invitation of the R Ladies community of Amsterdam. You can download the tutorial  [here](https://github.com/aurorepaligot/rladiesamsterdam_blogdown_handout) 
