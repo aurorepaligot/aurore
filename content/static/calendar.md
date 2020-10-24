@@ -22,3 +22,6 @@ title: "Calendar"
 
 ##### 16 April, 2020 - [R Ladies Amsterdam](https://www.meetup.com/fr-FR/rladies-amsterdam/events/269795394/)
 *Blogdown. Creating Blogs and Websites with R Markdown*
+
+##### April, 2019 - R Ladies Amsterdam
+*My experience in a coding Bootcamp. Data Analytics specialization at Ubiqum Code Academy*
