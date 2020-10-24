@@ -1,0 +1,40 @@
+---
+title: Creating a website with blogdown
+author: Aurore Paligot
+date: '2020-04-16'
+slug: creating-a-website-with-blogdown
+categories:
+  - R
+tags:
+  - R Markdown
+  - R Ladies
+  - blogdown
+  - hugo
+  - blogging
+publishdate: '2020-04-16T12:04:04+02:00'
+comments: yes
+---
+**this is a draft**
+
+### a tutorial
+
+This website is proudly hosted on Rbind.io, the #rstat community domain dedicated to website development. In this post I'd like to take you through the different steps that I took to build it. 
+
+![step1](/blog/2020-04-16-creating-a-website-with-blogdown_files/R-Ladies Amsterdam_16-04-2020_Blogdown_Aurore Paligot.png)
+
+![step2](/blog/2020-04-16-creating-a-website-with-blogdown_files/R-Ladies Amsterdam_16-04-2020_Blogdown_Aurore Paligot (1).png)
+
+
+Ingredients : 
+
+- R Studio
+- R Blogdown
+- R Markdown
+- Hugo
+- GitHub
+- Netlify
+- rbind
+
+**[Tutorial here]** 
+
+This post is based on the webinar that I had the pleasure to give thanks to the kind invitation of the R Ladies community of Amsterdam. 
