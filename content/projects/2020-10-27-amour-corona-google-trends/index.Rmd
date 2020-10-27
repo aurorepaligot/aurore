@@ -1,0 +1,61 @@
+---
+title: Tomber amoureux en temps de corona. Une enquête de nos habitudes sur Google
+  Trends
+author: Aurore Paligot
+date: '2020-10-27'
+slug: amour-corona-google-trends
+categories: []
+tags:
+  - Text Mining
+  - Digital Humanities
+  - Google Trends
+  - Coronavirus
+publishdate: '2020-10-27T23:12:19+01:00'
+comments: yes
+---
+![](/projects/2020-10-27-amour-corona-google-trends/index_files/trends.PNG)
+
+Tout a commencé en juin dernier. Curieuse de la variation régionale liée aux expressions *tomber amoureux* et *tomber en amour*, je me suis égarée sur [Google Trends](https://trends.google.fr/trends/?geo=FR) et, sérendipité aidant, y ai fait une découverte inattendue :  durant la quarantaine, les francophones du monde entier ont subitement arrêté de demander à Google comment trouver l’amour. Déconfite et confinée, de mon sofa je me suis lancée dans une exploration nocturne et internationale des thèmes de la vie courante qui auraient pu, d’une manière ou d’une autre, être affectés par la pandémie.  J’en ai cherché les indices via les traces de nos recherches passées, consignées et publiquement accessibles dans l’historique de Google Trends.
+
+### Tomber amoureux
+![](/projects/2020-10-27-amour-corona-google-trends/index_files/4 x 2 in (1).png)
+
+En tirant sur le fil, j’ai élargi ma recherche aux internautes du monde entier, tout en remontant les années. A première vue, elle semble de moins en moins populaire, cette thématique. Vraiment ? Je ne suis pas convaincue. Je me demande alors quelles sont les motivations qui poussent les internautes à rechercher ces termes. Génie, aide-moi : quels sont les secrets de la séduction ? La première règle est la suivante, me souffle le dieu à lunettes :  avant de tomber amoureux, il faut faire des rencontres. Evidemment, les conditions n’aident pas, mais qu’à cela ne tienne, j’ai trouvé mon point de comparaison ! Si je rajoute Tinder à l’équation, je peux décemment observer l’état de nos tentatives pour trouver l’âme sœur, un poulpe polyglotte ou tout autre forme de relation dans nos vies de confinés. Le Premier Ministre néerlandais n’a-t-il d’ailleurs pas recommandé aux célibataires de la nation de se trouver un *sex buddy* pour garder le moral et la santé ? 
+
+Après un premier engouement soudain pour la question, force est de constater que le corona a malheureusement rattrapé les aspirants amoureux du monde entier. C’est la déprime*.
+
+Je ne peux m’empêcher de faire une mention spéciale à l’Amérique Latine (Bolivie, Pérou, Nicaragua) chez qui Tinder n’a pas passé le premier round et pour qui la requête à l’ancienne reste la plus populaire. Donde encontrar solter@s? 
+![](/projects/2020-10-27-amour-corona-google-trends/index_files/solterasfirst.PNG)
+
+### La nourriture
+Pour poursuivre dans la légèreté, je me suis penchée sur la nourriture. Le pain, grand gagnant toutes catégories, a affolé la toile et pas uniquement dans les articles tendances qui ont envahis nos journaux et reportages « maisons ». Jolie remontée pour le chocolat et les pizzas, la *comfort food* par excellence. Suis-je la seule à n’avoir pas mis la main à la pâte durant le confinement ?
+
+![](/projects/2020-10-27-amour-corona-google-trends/index_files/Nourriture.png)
+
+### Les boissons alcoolisées
+Voici un sujet qui m’intéresse davantage encore que la confection de pâtisserie maison : l’alcool. A Noël, le vin, la bière et autres cocktails nous ont abreuvés. Par contre, le seul alcool qui vaille, en confinement, c’est celui qui nous permet de désinfecter nos mains. Rupture de stock de gel hydroalcoolique, solutions *home made*, on est dans un autre registre. Les recherches Google pour l’alcool de table on simultanément baissé.
+
+![](/projects/2020-10-27-amour-corona-google-trends/index_files/alcool.png)
+
+Au moment de faire ces recherches, en juin, je ne savais pas que l’interdiction de la vente d’alcool (à boire!) serait promue comme mesure de lutte contre le coronavirus quelques mois plus tard. Oserais-je parler de dissonance ?  
+
+### Le chômage
+J’en viens aux choses sérieuses. Le chômage. Avons-nous tous également flippé face à la perte de nos emplois durant la crise ? Les européens sont-ils égaux face à ces questions ? Les requêtes Google sont, de manière assez logique, le reflet des situations économiques respectives des états. C’est pas très jojo ce qui se passe dans la tête des espagnols, des français (oui, oui) ou des grecs. Autre son de cloche au Nord : le chômage déclenche à peine un bronchement du côté des Pays-Bas et de la Suède. Je vous invite à mettre en rapport ces données avec des sources externes portant sur les chiffres liés à l’augmentation effective du chômage par pays durant la crise. 
+
+![](/projects/2020-10-27-amour-corona-google-trends/index_files/Chomage12mois.png)
+Google, Google, laisse-moi voyager dans le temps. Pour le kiffe, voici un petit retour sur les 15 dernières années d'exploration de la thématique du chômage. Zoom sur la crise de 2008 : on prend les mêmes et on recommence. Avec une subtilité graphique encore non rencontrée :  la tendance projective. Ouille ! 
+
+![](/projects/2020-10-27-amour-corona-google-trends/index_files/Chomage15ans.png)
+
+### Police number
+Tant qu’à creuser dans le dark, un autre sujet me turlupine. Les gens ont-ils cherché plus fréquemment le numéro de la police durant le confinement ? Cette fois je partage ma recherche entre le monde anglophone et le monde hispanophone. Il se passe forcément un truc ici, mais quoi ? Georges Floyd, paix à son âme, nous fournit un point de comparaison frappant sur la popularité de ces recherches. Mais, durant le lockdown, à qui, à quoi, étaient-elles destinées ? Je n’ai pas de réponse, mon exploration m’a simplement amenée devant une question dont je n’ai pas vu d’écho retentissant dans la presse de ces derniers mois. 
+
+![](/projects/2020-10-27-amour-corona-google-trends/index_files/pjimage.jpg)
+
+Via des sources externes, celles qui ne s’intéressent pas en premier lieu au temps de cuisson du pain, on a pu lire entre les lignes des inquiétudes de la part des médecins, des psychologues, des travailleurs sociaux, des organisations humanitaires également, faisant état de certaines aggravations de situations sociales déjà précaires. Suis-je seulement sur la bonne piste ? Mon expertise s’arrête à ce dernier graphique et à ce constat, qui me laisse sans réponses. 
+
+Mais, pour revenir à ma question initiale : non, Google Trends n’est pas l’outil idéal pour observer la variation linguistique régionale. Par contre il permet de se pencher sur les thèmes qui nous occupent et font l'objet de nos requête au quotidien. Pour de la variation linguistique de qualité, je vous renvoie à l’excellent travail de [Mathieu Avanzi](https://francaisdenosregions.com/author/mathieuavanzi/) et à son ouvrage *Le français de nos régions*. 
+
+Remarque : je ne propose ni corrélation ni causalité dans cet article à vocation ludique. Seul un travail de fond de mise en relation avec des sources externes et des expertises complémentaires permettrait de le faire. Par contre, je vous invite à faire un tour sur Google Trends ! 
+
+*Un moment qu’auront bien choisi les publicitaires cyniques des cliniques privées pour envoyer aux abonnées Instagram de plus de 30 ans des campagnes marketing bien senties sur la congélation de leurs ovocytes. A commenter dans un prochain article sur le biais des algorithmes dans la stratégie marketing de Facebook. 
