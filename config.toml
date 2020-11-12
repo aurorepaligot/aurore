@@ -17,7 +17,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params.author]
   name = "Aurore Paligot"
-  thumbnail = "/images/author.jpeg"
+  thumbnail = "/images/author.png"
   description = "Creator of this blog."
 
 [params.index]
