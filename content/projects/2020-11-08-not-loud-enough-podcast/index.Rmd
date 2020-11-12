@@ -1,5 +1,5 @@
 ---
-title: Not Loud Enough Podcast
+title: Guest for Not Loud Enough Podcast
 author: Aurore Paligot
 date: '2020-11-08'
 slug: not-loud-enough-podcast
@@ -10,23 +10,45 @@ comments: yes
 draft: true
 ---
 
-### A cool AI video introduction
+I've been invited by my dear friends Canan Marasligil and Laura M. Pana to talk about my journey from linguistics to Data Science during a special episode of [Not Loud Enough](http://www.migrationlab.org/podcast) podcast. We discuss data, sign languages, artificial intelligence, inclusion and much more.
+
+<iframe src="https://open.spotify.com/embed-podcast/show/5D64DbThahPlfYxWBoBz10" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
+One of the aspects we address is the use of artificial intelligence to facilitate the accessibility of online content. For this podcast, I tested some speech recognition programs to help me transcribe the episode and I ended up selecting [Otter.ai](https://otter.ai/). You can download the full transcript here. 
 
-#### My projects 
+I was absolutely amazed by the quality of this AI, which works for many varieties of English and has a reliable accent recognition system for the speakers of English as a second language, thus contributing to the possibility of including a diverse audience in the use of this technology. Apart from a few errors, the speech recognition was almost perfect and faithfully preserved my grammatical and pronunciation errors [laugh] which I left in the transcript for the sake of audio fidelity as well as a question of resources. 
 
-Current projects
+As you can imagine, proper names were of course the most difficult elements to reconstruct by the AI given that they were not part of the dataset it got fed with. Here are the funniest mistakes : 
 
-Instagram the Dam - Chapter I - A portrait of Amsterdam Urban beaches
+*"So today on the podcast, we are welcoming **ohana paliku**"*
 
-Instagram the Dam - Chapter II - #SamenSterk
+"So today on the podcast, we are welcoming Aurore Paligot"
 
-Past projects
+*"a five months internship it at the **hotbox University of online makeup**"*
 
-Register variation in French Belgian Sign Language (PhD project)
+"a five months intership at the Radboud University of Nijmegen"
 
-Contribution to the Corpus LSFB
+*"having this **Korean city** about the data"*
+
+"having this curiosity about the data"
+
+
+During our conversations, we opened many questions and I would love to know your opinion and contribution to the conversation. In the meantime, here is the list of all the references that were given during the podcast. 
+
+#### My current projects 
+
+**Instagram the Dam - Chapter I - A portrait of Amsterdam Urban beaches**
+
+Read about it on [Tapp](https://www.tapp.nl/blog/instagramthedam) and on [my blog](https://aurore.rbind.io/projects/2020-10-24-instagram-the-dam/instagram-the-dam/). 
+
+[**Falling in love in times of corona [in French]**](https://aurore.rbind.io/projects/2020-10-27-amour-corona-google-trends/amour-corona-google-trends/)
+
+An example of data visualisation and research on Google Trends
+
+**Instagram the Dam - Chapter II - #SamenSterk**
+
+To come soon
 
 #### Amsterdam Programming communities
 
