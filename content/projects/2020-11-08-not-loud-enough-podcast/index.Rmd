@@ -24,7 +24,7 @@ I was absolutely amazed by the quality of this AI, which works for various varie
 
 As you can imagine, proper names were of course the most difficult elements to be reconstructed by the AI given that they were not part of the data set it got fed with. I leave you here the funiust mistakes. 
 
-![](/projects/2020-11-08-not-loud-enough-podcast/AIBloppers.PNG){width=120%}
+![](/projects/2020-11-08-not-loud-enough-podcast/AIBloppers.PNG){width=100%}
 
 ### Show Notes and Links
 
