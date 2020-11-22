@@ -8,6 +8,7 @@ tags: []
 publishdate: '2020-11-08T21:52:10+01:00'
 comments: yes
 ---
+![](/projects/2020-11-08-not-loud-enough-podcast/124763273_3426055290848220_4725329006252957520_o.png)
 
 I've been invited by my dear friends Canan Marasligil and Laura M. Pana to talk about my journey from linguistics to Data Science during a special episode of **[Not Loud Enough](http://www.migrationlab.org/podcast)** podcast. We discuss data, sign languages, artificial intelligence, inclusion and much more.
 
@@ -25,6 +26,8 @@ I was absolutely amazed by the quality of this AI, which works for various varie
 As you can imagine, proper names were of course the most difficult elements to be reconstructed by the AI given that they were not part of the data set it got fed with. I leave you here the funiust mistakes. 
 
 ![](/projects/2020-11-08-not-loud-enough-podcast/AIBloppers.PNG){width=100%}
+
+![](/projects/2020-11-08-not-loud-enough-podcast/126810093_3455715861215496_4292637357218363826_n.png)
 
 ### Show Notes and Links
 
@@ -48,7 +51,7 @@ Read about it on [Tapp](https://www.tapp.nl/blog/instagramthedam) and on [My Blo
 
 To come soon
 
-* **Falling in love in times of corona  French]**
+* **Falling in love in times of corona  [French]**
 
 An example of data visualization and research on Google Trends commented on [The Blog](https://aurore.rbind.io/projects/2020-10-27-amour-corona-google-trends/amour-corona-google-trends/)
 
